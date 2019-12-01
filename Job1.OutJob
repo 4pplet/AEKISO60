@@ -100,7 +100,7 @@ OutputDefault4=0
 Configuration4_Name1=OutputConfigurationParameter1
 Configuration4_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator= |ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15
 OutputType5=PCB 3D Print
-OutputName5=PCB 3D Print
+OutputName5=Front of PCB 3D Print
 OutputCategory5=Documentation
 OutputDocumentPath5=AEKISO60.PcbDoc
 OutputVariantName5=
@@ -164,11 +164,26 @@ Configuration7_Name5=SortOrder
 Configuration7_Item5=Quantity=Down
 Configuration7_Name6=VisibleOrder
 Configuration7_Item6=Description=100|Quantity=100|Designator=100|LCSCPN=100|MFG=100|MFGPN=100|Value=100|Version=100|LCSC MFG=100|MRF.Part=100
+OutputType8=PCB 3D Print
+OutputName8=Back of PCB 3D Print
+OutputCategory8=Documentation
+OutputDocumentPath8=AEKISO60.PcbDoc
+OutputVariantName8=
+OutputEnabled8=1
+OutputEnabled8_OutputMedium1=0
+OutputEnabled8_OutputMedium2=0
+OutputEnabled8_OutputMedium3=0
+OutputEnabled8_OutputMedium4=2
+OutputEnabled8_OutputMedium5=0
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.02|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration8_Name1=OutputConfigurationParameter1
+Configuration8_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=115108982|ViewY=54945565|LookAtX=398349152|LookAtY=140212080|LookAtZ=608519.125|QuatX=0|QuatY=-0.999999940395355|QuatZ=0|QuatW=-1.31134157754786E-7|Zoom=1.26488826012329E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=False|ViewConfig=RECORD\3Board\2CFGALL.CONFIGURATIONKIND\33\2CFGALL.CONFIGURATIONDESC\3Altium%203D%20NB%20Black%20Configuration\2CFG3D.POSITIVETOPSOLDERMASK\3TRUE\2CFG3D.POSITIVEBOTTOMSOLDERMASK\3TRUE\2CFG3D.SHOWCOMPONENTBODIES\3SYSTEM\2CFG3D.SHOWCOMPONENTSTEPMODELS\3SYSTEM\2CFG3D.COMPONENTMODELPREFERENCE\30\2CFG3D.SHOWCOMPONENTSNAPMARKERS\3TRUE\2CFG3D.SHOWCOMPONENTAXES\3TRUE\2CFG3D.SHOWBOARDCORE\3TRUE\2CFG3D.SHOWBOARDPREPREG\3TRUE\2CFG3D.SHOWTOPSILKSCREEN\3TRUE\2CFG3D.SHOWBOTSILKSCREEN\3TRUE\2CFG3D.SHOWORIGINMARKER\3TRUE\2CFG3D.EYEDIST\32000\2CFG3D.SHOWCUTOUTS\3TRUE\2CFG3D.SHOWROUTETOOLPATH\3TRUE\2CFG3D.SHOWROOMS3D\3FALSE\2CFG3D.USESYSCOLORSFOR3D\3FALSE\2CFG3D.WORKSPACECOLOR\311840160\2CFG3D.BOARDCORECOLOR\313491161\2CFG3D.BOARDPREPREGCOLOR\30\2CFG3D.TOPSOLDERMASKCOLOR\30\2CFG3D.BOTSOLDERMASKCOLOR\30\2CFG3D.COPPERCOLOR\33323360\2CFG3D.TOPSILKSCREENCOLOR\315461355\2CFG3D.BOTSILKSCREENCOLOR\315461355\2CFG3D.WORKSPACELUMINANCEVARIATION\330\2CFG3D.WORKSPACECOLOROPACITY\31.000000\2CFG3D.BOARDCORECOLOROPACITY\30.820000\2CFG3D.BOARDPREPREGCOLOROPACITY\30.500000\2CFG3D.TOPSOLDERMASKCOLOROPACITY\30.900000\2CFG3D.BOTSOLDERMASKCOLOROPACITY\30.900000\2CFG3D.COPPERCOLOROPACITY\31.000000\2CFG3D.TOPSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOTSILKSCREENCOLOROPACITY\31.000000\2CFG3D.BOARDTHICKNESSSCALING\31.000000\2CFG3D.SHOWMECHANICALLAYERS\3FALSE\2CFG3D.MECHANICALLAYERSOPACITY\31.000000
 
 [PublishSettings]
 OutputFilePath2=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\2019-11-30\Job1.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Free Documents
+OutputBasePath2=Project Outputs for alps-cherry
 OutputPathMedia2==CurrentDate
 OutputPathMediaValue2==CurrentDate
 OutputPathOutputer2=[Output Type]
@@ -195,7 +210,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\2019-11-30\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for Free Documents
+OutputBasePath3=Project Outputs for alps-cherry
 OutputPathMedia3==CurrentDate
 OutputPathMediaValue3==CurrentDate
 OutputPathOutputer3=[Output Type]
@@ -208,7 +223,7 @@ OutputFileNameSpecial3=
 OpenOutput3=0
 OutputFilePath4=Project Outputs for Free Documents\2019-12-01\Job1.PDF
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for Free Documents
+OutputBasePath4=Project Outputs for alps-cherry
 OutputPathMedia4==CurrentDate
 OutputPathMediaValue4==CurrentDate
 OutputPathOutputer4=[Output Type]
@@ -235,7 +250,7 @@ PDFACompliance4=Disabled
 PDFVersion4=Default
 OutputFilePath5=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\
 ReleaseManaged5=1
-OutputBasePath5=Project Outputs for Free Documents
+OutputBasePath5=Project Outputs for alps-cherry
 OutputPathMedia5==CurrentDate
 OutputPathMediaValue5==CurrentDate
 OutputPathOutputer5=[Output Type]
