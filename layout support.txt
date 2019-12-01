@@ -6,4 +6,11 @@
 [{y:0.25,w:1.5},"Ctrl\n1.5u",{w:1.25},"Win\n1.25u",{w:1.5},"Alt\n1.5u",{w:2.75},"ANSI shift\n2.75u","\n1u",{w:2.75},"ANSI shift\n2.75u",{w:1.5},"AltGr\n1.5u",{w:1.25},"Win\n1.25u",{w:1.5},"Ctrl\n1.5u"],
 [{w:1.5},"Ctrl\n1.5u",{w:1.25},"Win\n1.25u",{w:1.5},"Alt\n1.5u",{w:2.75},"ANSI shift\n2.75u",{w:1.5},"\n1.5u",{w:2.25},"ANSI shift\n2.25u",{w:1.5},"AltGr\n1.5u",{w:1.25},"Win\n1.25u",{w:1.5},"Ctrl\n1.5u"],
 [{w:1.5},"Ctrl\n1.5u",{w:1.25},"Win\n1.25u",{w:1.5},"Alt\n1.5u",{w:2.25},"ANSI shift\n2.25u",{w:1.5},"\n1.5u",{w:2.75},"ANSI shift\n2.75u",{w:1.5},"AltGr\n1.5u",{w:1.25},"Win\n1.25u",{w:1.5},"Ctrl\n1.5u"],
-[{w:1.5},"Ctrl\n1.5u",{w:1.25},"Win\n1.25u",{w:1.5},"Alt\n1.5u",{w:2.5},"ISO shift\n2.5u",{w:1.25},"\n1.25u",{w:2.75},"ANSI shift\n2.75u",{w:1.5},"AltGr\n1.5u",{w:1.25},"Win\n1.25u",{w:1.5},"Ctrl\n1.5u"]
+[{w:1.5},"Ctrl\n1.5u",{w:1.25},"Win\n1.25u",{w:1.5},"Alt\n1.5u",{w:2.5},"ISO shift\n2.5u",{w:1.25},"\n1.25u",{w:2.75},"ANSI shift\n2.75u",{w:1.5},"AltGr\n1.5u",{w:1.25},"Win\n1.25u",{w:1.5},"Ctrl\n1.5u"],
+[{y:0.75,w:1.5},"Ctrl\n1.5u","Up\n1u",{w:1.5},"Alt\n1.5u",{w:7},"\n7u",{w:1.5},"AltGr\n1.5u","Down\n1u",{w:1.5},"Ctrl\n1.5u"],
+[{w:1.5},"Ctrl\n1.5u","Up\n1u",{w:1.5},"Alt\n1.5u",{w:6},"\n6u",{w:1.5},"AltGr\n1.5u","Down\n1u","Left\n1u",{w:1.5},"Ctrl\n1.5u"],
+[{w:1.5},"Ctrl\n1.5u",{w:1.25},"Win\n1.25u",{w:1.5},"Alt\n1.5u",{a:7,w:6.5},"",{a:4,w:1.25},"Down\n1.25u","Down\n1u","Down\n1u","Down\n1u"],
+[{w:1.5},"Ctrl\n1.5u","Up\n1u",{w:1.5},"Alt\n1.5u",{w:2.75},"ANSI shift\n2.75u","\n1u",{w:2.25},"ANSI shift\n2.25u",{w:1.5},"AltGr\n1.5u","Down\n1u","Left\n1u",{w:1.5},"Ctrl\n1.5u"],
+[{w:1.5},"Ctrl\n1.5u","Up\n1u",{w:1.5},"Alt\n1.5u",{w:2.25},"ANSI shift\n2.25u","\n1u",{w:2.75},"ANSI shift\n2.75u",{w:1.5},"AltGr\n1.5u","Down\n1u","Left\n1u",{w:1.5},"Ctrl\n1.5u"],
+[{w:1.5},"Ctrl\n1.5u","Up\n1u",{w:1.5},"Alt\n1.5u",{w:2.25},"ANSI shift\n2.25u",{w:1.5},"\n1.5",{w:2.25},"ANSI shift\n2.25u",{w:1.5},"AltGr\n1.5u","Down\n1u","Left\n1u",{w:1.5},"Ctrl\n1.5u"]
+
