@@ -33,8 +33,6 @@ OutputMedium3=Gerbers drill and pick
 OutputMedium3_Type=GeneratedFiles
 OutputMedium4=Prints
 OutputMedium4_Type=Publish
-OutputMedium5=BOM
-OutputMedium5_Type=GeneratedFiles
 OutputType1=Gerber
 OutputName1=Gerber Files
 OutputCategory1=Fabrication
@@ -45,7 +43,6 @@ OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=1
 OutputEnabled1_OutputMedium4=0
-OutputEnabled1_OutputMedium5=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=3|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
@@ -59,7 +56,6 @@ OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=2
 OutputEnabled2_OutputMedium4=0
-OutputEnabled2_OutputMedium5=0
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=3|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
@@ -73,7 +69,6 @@ OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=1
 OutputEnabled3_OutputMedium3=0
 OutputEnabled3_OutputMedium4=0
-OutputEnabled3_OutputMedium5=0
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration3_Name1=OutputConfigurationParameter1
@@ -95,7 +90,6 @@ OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=3
 OutputEnabled4_OutputMedium4=0
-OutputEnabled4_OutputMedium5=0
 OutputDefault4=0
 Configuration4_Name1=OutputConfigurationParameter1
 Configuration4_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator= |ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15
@@ -109,7 +103,6 @@ OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=0
 OutputEnabled5_OutputMedium3=0
 OutputEnabled5_OutputMedium4=1
-OutputEnabled5_OutputMedium5=0
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.02|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration5_Name1=OutputConfigurationParameter1
@@ -124,7 +117,6 @@ OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=4
 OutputEnabled6_OutputMedium4=0
-OutputEnabled6_OutputMedium5=1
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration6_Name1=ColumnNameFormat
@@ -149,7 +141,6 @@ OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=5
 OutputEnabled7_OutputMedium4=0
-OutputEnabled7_OutputMedium5=2
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration7_Name1=ColumnNameFormat
@@ -174,7 +165,6 @@ OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
 OutputEnabled8_OutputMedium4=2
-OutputEnabled8_OutputMedium5=0
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.02|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration8_Name1=OutputConfigurationParameter1
@@ -208,7 +198,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\2019-11-30\
+OutputFilePath3=C:\Users\Stefan\Documents\git\AEKISO60\Project Outputs for alps-cherry\2019-12-21\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for alps-cherry
 OutputPathMedia3==CurrentDate
@@ -221,7 +211,7 @@ OutputFileNameMulti3=
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
 OpenOutput3=0
-OutputFilePath4=Project Outputs for Free Documents\2019-12-01\Job1.PDF
+OutputFilePath4=C:\Users\Stefan\Documents\git\AEKISO60\Project Outputs for alps-cherry\2019-12-21\Prints.PDF
 ReleaseManaged4=1
 OutputBasePath4=Project Outputs for alps-cherry
 OutputPathMedia4==CurrentDate
@@ -229,11 +219,11 @@ OutputPathMediaValue4==CurrentDate
 OutputPathOutputer4=[Output Type]
 OutputPathOutputerPrefix4=
 OutputPathOutputerValue4=
-OutputFileName4=Print.PDF
+OutputFileName4=Prints.PDF
 OutputFileNameMulti4=
 UseOutputNameForMulti4=0
 OutputFileNameSpecial4=
-OpenOutput4=1
+OpenOutput4=0
 PromptOverwrite4=1
 PublishMethod4=0
 ZoomLevel4=50
@@ -248,24 +238,11 @@ ShowComponentParameters4=1
 GlobalBookmarks4=0
 PDFACompliance4=Disabled
 PDFVersion4=Default
-OutputFilePath5=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\
-ReleaseManaged5=1
-OutputBasePath5=Project Outputs for alps-cherry
-OutputPathMedia5==CurrentDate
-OutputPathMediaValue5==CurrentDate
-OutputPathOutputer5=[Output Type]
-OutputPathOutputerPrefix5=
-OutputPathOutputerValue5=
-OutputFileName5=
-OutputFileNameMulti5=
-UseOutputNameForMulti5=1
-OutputFileNameSpecial5=
-OpenOutput5=1
 
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\2019-11-30\Job1.PDF
 OpenOutputs2=0
-RelativeOutputPath3=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\2019-11-30\
+RelativeOutputPath3=C:\Users\Stefan\Documents\git\AEKISO60\Project Outputs for alps-cherry\2019-12-21\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
@@ -275,16 +252,6 @@ OpenGerberOutput3=0
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
-RelativeOutputPath4=Project Outputs for Free Documents\2019-12-01\Job1.PDF
-OpenOutputs4=1
-RelativeOutputPath5=C:\Users\Stefan\Documents\git\Steezy60-ALPS\Project Outputs for alps-cherry\
-OpenOutputs5=1
-AddToProject5=1
-TimestampFolder5=0
-UseOutputName5=0
-OpenODBOutput5=0
-OpenGerberOutput5=0
-OpenNCDrillOutput5=0
-OpenIPCOutput5=0
-EnableReload5=0
+RelativeOutputPath4=C:\Users\Stefan\Documents\git\AEKISO60\Project Outputs for alps-cherry\2019-12-21\Prints.PDF
+OpenOutputs4=0
 
