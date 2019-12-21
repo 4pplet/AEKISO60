@@ -1,4 +1,4 @@
-# Steezy60-SMK
+# AEKISO60
 
 AEKISO60 is a PCB for use of AEK ISO keycaps in 60% builds, there is some compatibility issues with tray-mount cases due to the different layout.
 
@@ -11,7 +11,7 @@ AEKISO60 is a PCB for use of AEK ISO keycaps in 60% builds, there is some compat
 ## Layout support: 
 ![alt text](./readme-images/revA_layout_support.jpg "Layout support - Rev A")
 
-## Altium teasers
+## Teaser
 ![alt text](./readme-images/top_A1.jpg "Top A1")
 
 ![alt text](./readme-images/bot_A1.jpg "Bot A1")
