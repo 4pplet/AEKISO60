@@ -1,6 +1,6 @@
 # AEKISO60
 
-AEKISO60 is a PCB for use of AEK ISO keycaps in 60% builds, there is some compatibility issues with tray-mount cases due to the different layout.
+AEKISO60 is a PCB for use of AEK ISO keycaps in 60% builds, there is some compatibility issues with tray-mount cases due to the AEK ISO layout: Only the mounting hole under space and the ones at the sides can be used.
 
 ## Some features:
 - QMK
