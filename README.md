@@ -6,6 +6,7 @@ AEKISO60 is a PCB for use of AEK ISO keycaps in 60% builds, there is some compat
 - QMK
 - USB C
 - RGB underglow
+- USB horizontal placement is classic GH60, same as GH60, plain60, voyager60 etc.
 - ISO AEK Layout support with extensive bottom row support
 
 ## Altium view of PCB
