@@ -19,3 +19,4 @@ AEKISO60 is a PCB for use of AEK ISO keycaps in 60% builds, there is some compat
 - Rev A1: Initial prototype
 - Rev A2: Improved routing, alligned PCB outline and port position with the other projects. Changed ESD-protection, diodes and XTAL for better compatibility with JLC SMD library.
 - Rev A3: Moved daughter board connector to allign with my other 60% projects (same position as cyber60, steezy60 and waffling60-solder)
+- Rev A3: Moved daughter board connector for better fitment in bakeneko. Added cutout for bakeneko V3 (untested). Minor siklscreen tweaks.
