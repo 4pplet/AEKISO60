@@ -9,6 +9,9 @@ AEKISO60 is a PCB for use of AEK ISO keycaps in 60% builds, there is some compat
 - USB horizontal placement is classic GH60, same as GH60, plain60, voyager60 etc.
 - ISO AEK Layout support with extensive bottom row support
 
+## Availability:
+As an option to DIY, I'll try and keep these available for purchase here: https://4pplet.com/ For DIY, the production files are avaliable in releases.
+
 ## Altium view of PCB
 ![alt text](./readme-images/AEKISO60_Rev_A4.jpg "PCB View - Rev B")
 
