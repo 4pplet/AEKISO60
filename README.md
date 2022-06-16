@@ -18,6 +18,9 @@ As an option to DIY, I'll try and keep these available for purchase here: https:
 ## Layout support: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
 
+## Plate-instruction:
+The capslock stabilizer is rotated to give space for the tray-mount screw opening in the plate. Here is a video and picture demonstrating how the stabilizer should be mounted: https://imgur.com/a/tCZg3jl Credits to huygn for making it.
+
 ## Revisions:
 - Rev A1: Initial prototype
 - Rev A2: Improved routing, alligned PCB outline and port position with the other projects. Changed ESD-protection, diodes and XTAL for better compatibility with JLC SMD library.
