@@ -227,12 +227,12 @@ DocumentPath=Project Outputs for alps-cherry\Design Rule Check - AEKISO60.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=AEKISO60
+Name=Revision
+Value=B1
 
 [Parameter2]
-Name=Revision
-Value=A4
+Name=ProjectTitle
+Value=AEKISO60
 
 [Configuration1]
 Name=Sources
