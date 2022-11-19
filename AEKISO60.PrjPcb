@@ -222,17 +222,13 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for alps-cherry\Design Rule Check - AEKISO60.html
-DItemRevisionGUID=
-
 [Parameter1]
-Name=Revision
-Value=B1
-
-[Parameter2]
 Name=ProjectTitle
 Value=AEKISO60
+
+[Parameter2]
+Name=Revision
+Value=B1
 
 [Configuration1]
 Name=Sources
