@@ -13,7 +13,7 @@ AEKISO60 is a PCB for use of AEK ISO keycaps in 60% builds, there is some compat
 As an option to DIY, I'll try and keep these available for purchase here: https://4pplet.com/ For DIY, the production files are avaliable in releases.
 
 ## Altium view of PCB
-![alt text](./readme-images/AEKISO60_Rev_A4.jpg "PCB View - Rev B")
+![alt text](./readme-images/AEKISO60_Rev_B2.jpg "PCB View - Rev B")
 
 ## Layout support: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
